@@ -13,7 +13,7 @@ body{
     background: url(background.png);
     background-size: cover;
     background-position: center;
-     flex-wrap: 1;
+    flex-wrap: 1;
     flex: wrap;  
 
 }
